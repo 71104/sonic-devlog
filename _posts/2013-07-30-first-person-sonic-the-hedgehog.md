@@ -2,7 +2,7 @@
 layout: post
 title: "First Person Sonic the Hedgehog"
 description: "we hate when something isn't made fine"
-categories: [sonic]
+category: The Beginning
 tags: [sonic, video, first person, 3d, youtube]
 ---
 {% include JB/setup %}
