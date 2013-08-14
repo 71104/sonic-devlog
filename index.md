@@ -11,6 +11,8 @@ It's [Sonic](http://en.wikipedia.org/wiki/Sonic_the_Hedgehog_%28series%29) we're
 
 We want to see it remastered in 3D.
 
+We are from the [OpenLab Roma](http://open.laboratorio.tv/) and we salute you all like this: "te sto a di BELLA".
+
 Latest posts:
 
 <ul class="posts">
