@@ -3,7 +3,7 @@ layout: post
 title: "Third Person Sonic the Hedgehog"
 description: "sketching"
 category: Design
-tags: [sonic]
+tags: [sonic, audio, third person, youtube, oogl.js, collada]
 ---
 {% include JB/setup %}
 
