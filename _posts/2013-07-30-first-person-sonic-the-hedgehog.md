@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First Person Sonic the Hedgehog"
-description: "We hate when something isn't made fine"
+description: "we hate when something isn't made fine"
 tags: ["sonic", "video", "first person", "3d", "youtube"]
 ---
 {% include JB/setup %}
