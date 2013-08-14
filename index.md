@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Making of.
+title: The Making Of
 tagline: "&quot;un passo avanti rispetto al nulla&quot;"
 ---
 {% include JB/setup %}
