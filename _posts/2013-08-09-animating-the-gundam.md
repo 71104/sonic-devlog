@@ -2,7 +2,6 @@
 layout: post
 title: "Animating the Gundam"
 description: "COLLADA esperiments"
-category: 
 tags: [gundam, webgl, oogl.js, collada, xml, xpath, dom]
 ---
 {% include JB/setup %}
