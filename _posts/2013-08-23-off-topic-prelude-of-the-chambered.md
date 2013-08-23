@@ -17,4 +17,4 @@ As the observant reader will argue, I didn't invent Prelude of the Chambered: I'
 
 By the way, seems like copying Notch games is turning into an international hobby: tl;dr, but from his latest Tumblr post it seems some folks copied 0x10c. Not to talk about all the Minecraft clones around, even WebGL-based.
 
-Anyways, anyways. oogl.js is now ready and I wanna thank Petrovic Yanko for his precious feedback.
+Anyways, anyways. oogl.js is now ready and I wanna thank Yanko Petrovic for his precious feedback.
