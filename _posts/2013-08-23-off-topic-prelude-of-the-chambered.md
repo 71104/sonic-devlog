@@ -3,11 +3,11 @@ layout: post
 title: "Off Topic: Prelude of the Chambered"
 description: "oogl.js playground"
 category: 
-tags: [webgl, oogl.js, chambered]
+tags: [webgl, oogl.js, chambered, notch, off topic]
 ---
 {% include JB/setup %}
 
-[oogl.js](http://oogljs.com/) was definitely in need of enhancements. The final 1.0 release in on the way, but before these days it was lacking a decent asynchronous asset loading system with progress feedback.
+[oogl.js](http://oogljs.com/) was definitely in need of enhancements. The final 1.0 release is on the way, but before these days it was lacking a decent asynchronous asset loading system with progress feedback.
 
 I have now provided oogl.js with a great one and also managed in making other improvements and bugfixes. oogl.js's playground is a test game you can find in another repository of mine, [Prelude of the Chambered](http://71104.github.io/chambered).
 
